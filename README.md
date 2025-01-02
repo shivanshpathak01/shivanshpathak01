@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Shivansh Pathak</h1>
-<h3 align="center">A passionate MERN Stack developer and a JAVA Programmer from India</h3>
+<h3 align="center">A passionate MERN Stack developer and Programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshpathak01&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshpathak01" /> </p>
 
@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/i_m_shivansh" target="blank"><img src="https://img.shields.io/twitter/follow/i_m_shivansh?logo=twitter&style=for-the-badge" alt="i_m_shivansh" /></a> </p>
 
-- 🔭 I’m currently working on **Fully working Clone of X.com and Spotify**
+- 🔭 I’m currently working on **Some of the Fullstack Apps that solves Real world Problem**
 
-- 🌱 I’m currently learning **ReactJS, NodeJS and ExpressJS**
+- 🌱 I’m currently learning **Devops and Tools related to it && System Design to make scalable designs for my Projects**
 
 - 👯 I’m looking to collaborate on **All in one post generator**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/shivansh_pathak01](https://linktr.ee/shivansh_pathak01)
 
-- 💬 Ask me about **HTML, JS, CSS**
+- 💬 Ask me about **HTML, JS, CSS, Express, Node, MongoDB, Docker, Git, Github, Java, Kubernetes, linux, Mysql, React, Bootstrap, Tailwind**
 
 - 📫 How to reach me **shivanshpathak0001@gmail.com**
 
